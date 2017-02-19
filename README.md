@@ -2,13 +2,36 @@
 
 # 2017-02-19
 OVERALL:
-headings: palatino font text "The Novel Nurse"
-body: din / din next / alte din font
-beige coloring
-old book feel
-background= image of half man, half skeleton (other examples), soften
-solid, khaki/beige, textbox background image is stationary, background image should be viewable between blocks
-text font doesn't matter (serif preferred to fit with gothic font, easy to read)
+headings: PALATINO font text "The Novel Nurse"
+body: DIN / DIN NEXT / ALTE DIN font
+bgcolor: beige / khaki / yellow (old book feel)
+background= image of half man, half skeleton (other examples), static positioning.
+text: black w/ solid, khaki/beige, background, background image(s) should be viewable between blocks
+text font doesn't really matter (serif preferred to fit with "english gothic"-feeling font, easy to read is most important)
+
+LAYOUT: index page
+{onload}
+___________________________________
+|         The Novel Nurse         |
+|               . .               |
+|   About Me --> |  <--References |
+|   Services --> U  <--Something  |
+|    List       / \               |
+|           -- /   \--            |
+|    Tips & -->|   |              |
+|     tricks   | ^ | <--Something |
+|              |   |              |
+|_________________________________|
+
+{onMouseclick} or {onScroll}
+___________________________________
+| The Novel Nurse  [Menu]         |
+|---------------------------------|
+|(CONTENT)                        |
+|                                 |
+|                                 |
+|                                 |
+|_________________________________|
 
 SECTIONS:
   1st - About me
@@ -27,13 +50,13 @@ SECTIONS:
     - Book image w/ link to Amazon Store
     - Quote to the right of book
     - Auto carousel
-  Submission & Guidelines
-  Contact page & Questionnare link
-    - Automatic email response for Questionnare (contains expected response time)
-  Copyright Info & reference citations
+  5th - Submission & Guidelines
+  6th - Contact page & Questionnaire link
+    - Automatic email response for Questionnaire (contains expected response time)
+  7th - Copyright Info & reference citations
 
 ADDITIONS:
-Quick Response Info graphic
+Quick Response Info graphic - thermometer
   Rating of Manuscript triage
   Where the manuscript sits on a health meter
-  followed by summary (character developement, etc.)
+  followed by summary (character development, etc.)
