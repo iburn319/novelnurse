@@ -1,5 +1,5 @@
 # novelnurse
-
+<pre>
 # 2017-02-19
 OVERALL:
 headings: PALATINO font text "The Novel Nurse"
@@ -60,3 +60,4 @@ Quick Response Info graphic - thermometer
   Rating of Manuscript triage
   Where the manuscript sits on a health meter
   followed by summary (character development, etc.)
+</pre>
